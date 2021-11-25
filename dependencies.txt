@@ -1,0 +1,8 @@
+build-essential
+doxygen
+git
+curl
+wireshark
+python3-serial
+srecord
+rlwrap
